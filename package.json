@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/codeforgeek/Node-and-mongo-tutorial"
+    "url": "https://github.com/biswatherockstar/nodeproject"
   },
   "keywords": [
     "Node.js",
@@ -17,9 +17,9 @@
   "author": "Biswa",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/codeforgeek/Node-and-mongo-tutorial/issues"
+    "url": "https://github.com/biswatherockstar/nodeproject"
   },
-  "homepage": "https://github.com/codeforgeek/Node-and-mongo-tutorial",
+  "homepage": "https://github.com/biswatherockstar/nodeproject",
   "dependencies": {
     "body-parser": "^1.13.3",
     "express": "^4.13.3",
